@@ -32,6 +32,8 @@ end
 
 - `permit_action(:action_name)`
 - `forbid_action(:action_name)`
+- `permit_actions(:action_name1, :action_name2, ...)`
+- `forbid_actions(:action_name1, :action_name2, ...)`
 
 ## Example
 
